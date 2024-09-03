@@ -1,0 +1,2 @@
+! Title: AdGuard DNS filter
+||info.cspserver.net

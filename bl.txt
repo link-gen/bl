@@ -1,2 +1,3 @@
 ! Title: AdGuard DNS filter
-||info.cspserver.net
+||info.cspserver.net^
+||global.telemetry.insights.video.a2z.com^
